@@ -1,3 +1,4 @@
 target/*
 .idea/*
 visioneventquery.iml
+.mvn
